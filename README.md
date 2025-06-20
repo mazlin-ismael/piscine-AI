@@ -1,0 +1,1 @@
+https://assets.01-edu.org/ai-branch/piscine-ai/household_power_consumption.txt

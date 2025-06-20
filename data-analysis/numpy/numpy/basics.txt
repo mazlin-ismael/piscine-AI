@@ -1,0 +1,5 @@
+conda create --name ex00 python=3.8 numpy jupyter
+conda activate ex00
+conda env export > requirements.txt
+jupyter notebook --port 889
+conda deactivate
